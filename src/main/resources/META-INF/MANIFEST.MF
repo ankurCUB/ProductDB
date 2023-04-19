@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: productdb.ProductDBServer
+Class-Path: /Users/ankursharma/IdeaProjects/Assignment4/ProductDB/src/ma
+ in/java/productdb/ProductDBServer.java
+
